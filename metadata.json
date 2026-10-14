@@ -1,0 +1,6 @@
+{
+  "name": "نغم المواعيد",
+  "description": "تطبيق لتذكيرك بالمواعيد اليومية والخاصة مع نغمات وأغانٍ مخصصة يختارها المستخدم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">نغم المواعيد</string>
+    <string name="app_tagline">تذكير بالمواعيد اليومية بأنغام وأغانٍ مبهجة</string>
+
+    <!-- General -->
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="dismiss">إيقاف التذكير</string>
+    <string name="snooze">غفوة (5 دقائق)</string>
+    <string name="test_alarm">تجربة الرنين</string>
+    <string name="preview_song">تشغيل النغمة</string>
+    <string name="stop_preview">إيقاف النغمة</string>
+    <string name="choose_song">اختيار أغنية أو نغمة</string>
+    <string name="custom_song_from_device">ملف صوتي من الهاتف</string>
+
+    <!-- Reminder Form -->
+    <string name="add_reminder">إضافة موعد جديد</string>
+    <string name="edit_reminder">تعديل الموعد</string>
+    <string name="reminder_title">عنوان الموعد</string>
+    <string name="reminder_title_hint">مثال: موعد الطبيب، مراجعة الدرس، اجتماع العمل</string>
+    <string name="reminder_notes">ملاحظات إضافية (اختياري)</string>
+    <string name="reminder_notes_hint">أي تفاصيل تود تذكرها مع الموعد...</string>
+    <string name="category">التصنيف</string>
+    <string name="select_time">تحديد الوقت</string>
+    <string name="repeat_mode">طريقة التكرار</string>
+    <string name="repeat_daily">تكرار يومي</string>
+    <string name="repeat_once">مرة واحدة فقط</string>
+    <string name="repeat_custom_days">أيام محددة في الأسبوع</string>
+    <string name="sound_settings">إعدادات الصوت والنغمة</string>
+    <string name="vibrate">الاهتزاز مع النغمة</string>
+    <string name="volume">مستوى الصوت</string>
+
+    <!-- Categories -->
+    <string name="cat_work">عمل واجتماعات</string>
+    <string name="cat_health">صحة ودواء</string>
+    <string name="cat_study">دراسة وتعليم</string>
+    <string name="cat_personal">شخصي وعائلي</string>
+    <string name="cat_spiritual">عبادة وصلاة</string>
+    <string name="cat_special">مناسبة خاصة</string>
+    <string name="cat_general">عام</string>
+
+    <!-- Ringing & Service -->
+    <string name="reminder_ringing_title">حان وقت موعدك الآن!</string>
+    <string name="notification_channel_name">تنبيهات المواعيد الموسيقية</string>
+    <string name="notification_channel_desc">تشغيل الأغاني والنغمات عند حلول مواعيدك</string>
+    <string name="now_playing">يعزف الآن:</string>
+    <string name="alarm_active_notification">منبه الموعد قيد التشغيل</string>
+
+    <!-- Permissions -->
+    <string name="permission_notification_title">تفعيل الإشعارات</string>
+    <string name="permission_notification_desc">يرجى منح إذن الإشعارات لضمان تنبيهك بمواعيدك في وقتها الدقيق مع أغنيتك المختارة.</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="exact_alarm_permission_desc">يحتاج التطبيق إلى إذن التنبيه الدقيق لإطلاق الأغنية في وقت الموعد بدقة ثانية.</string>
+
+    <!-- Days -->
+    <string name="day_sat">السبت</string>
+    <string name="day_sun">الأحد</string>
+    <string name="day_mon">الاثنين</string>
+    <string name="day_tue">الثلاثاء</string>
+    <string name="day_wed">الأربعاء</string>
+    <string name="day_thu">الخميس</string>
+    <string name="day_fri">الجمعة</string>
+
+    <!-- Empty states -->
+    <string name="no_reminders_title">لا توجد مواعيد مسجلة حتى الآن</string>
+    <string name="no_reminders_desc">أضف مواعيدك اليومية والخاصة واختر أغنيتك ونغمتك المفضلة لتذكرك بها بروح مبهجة!</string>
+    <string name="add_first_reminder">إضافة أول موعد بنغمتك</string>
+</resources>
